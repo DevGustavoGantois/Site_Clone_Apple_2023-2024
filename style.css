@@ -70,7 +70,7 @@ video source {
 }
 
 .video {
-    width: 150.5rem;
+    width: 153.5rem;
 }
 
 .services img {
@@ -245,7 +245,7 @@ video source {
 
 @media (max-width: 1920px) {
     .video {
-        width: 112.5rem;
+        width: 115.5rem;
     }
 }
 
