@@ -251,13 +251,13 @@ video source {
 
 @media (max-width: 1680px) {
     .video {
-        width: 93.6rem;
+        width: 100.6rem;
     }
 }
 
 @media (max-width: 1440px) {
     .video {
-        width: 79.9rem;
+        width: 100.9rem;
     }
 }
 
