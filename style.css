@@ -257,7 +257,7 @@ video source {
 
 @media (max-width: 1440px) {
     .video {
-        width: 81rem;
+        width: 63rem;
     }
 }
 
@@ -308,7 +308,7 @@ video source {
 
 @media (max-width: 1024px) {
     .video {
-        width: 75rem;
+        width: 105rem;
     }
 }
 
